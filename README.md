@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/Vikramkumar113/Vikramkumar113/raw/main/github-header-image.png" alt="MasterHead">
-</p>
 
 
 <h1 align="center">Hi 👋, I'm Vikram Jangid</h1>
