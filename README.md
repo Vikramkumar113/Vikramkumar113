@@ -14,7 +14,6 @@
 
 - 📫 How to reach me **vikramjangid810@gmail.com**
 
-- ⚡ Fun fact **Trying too be Extrovert**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
