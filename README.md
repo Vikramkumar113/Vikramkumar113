@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **MY Portfolio**
 
-- 🌱 I’m currently learning **Node.js, Express.js and MongoDB, Data Structures and algorithms**
+- 🌱 I’m currently learning backend
 
 - 💬 Ask me about **Data Structures and algorithms, MERN**
 
